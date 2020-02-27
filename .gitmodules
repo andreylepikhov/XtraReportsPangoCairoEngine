@@ -1,0 +1,3 @@
+[submodule "GdkSharp"]
+	path = GdkSharp
+	url = https://github.com/andreylepikhov/GtkSharp
